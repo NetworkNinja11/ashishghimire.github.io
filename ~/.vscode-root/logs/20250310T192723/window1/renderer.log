@@ -1,0 +1,17 @@
+2025-03-10 19:27:24.040 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:24.052 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:24.052 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:24.053 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:24.298 [info] Started local extension host with pid 79799.
+2025-03-10 19:27:24.374 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-03-10 19:27:24.540 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-03-10 19:27:25.008 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-10 19:27:27.361 [info] [perf] Render performance baseline is 49ms
+2025-03-10 19:27:43.195 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:43.195 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:43.196 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:43.196 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-03-10 19:27:43.385 [info] Started local extension host with pid 79891.
+2025-03-10 19:27:43.888 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-03-10 19:27:46.025 [info] [perf] Render performance baseline is 31ms
+2025-03-10 19:33:53.340 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue

@@ -1,0 +1,12 @@
+2025-03-10 19:33:50.891 [info] Getting Manifest... xabikos.javascriptsnippets
+2025-03-10 19:33:51.139 [info] Installing extension: xabikos.javascriptsnippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-03-10 19:33:53.275 [info] Extension signature verification result for xabikos.javascriptsnippets: Success. Executed: true. Duration: 1576ms.
+2025-03-10 19:33:53.292 [info] Extracted extension to file:///root/.vscode/extensions/xabikos.javascriptsnippets-1.8.0: xabikos.javascriptsnippets
+2025-03-10 19:33:53.305 [info] Renamed to /root/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+2025-03-10 19:33:53.317 [info] Extension installed successfully: xabikos.javascriptsnippets vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-03-10 19:34:29.115 [info] Getting Manifest... ritwickdey.liveserver
+2025-03-10 19:34:29.330 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-03-10 19:34:31.006 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 912ms.
+2025-03-10 19:34:32.988 [info] Extracted extension to file:///root/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-03-10 19:34:33.123 [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-03-10 19:34:33.134 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/root/.vscode/extensions/extensions.json

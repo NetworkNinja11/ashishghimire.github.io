@@ -1,0 +1,88 @@
+2025-03-10 19:27:25.444 [info] [main] Log level: Info
+2025-03-10 19:27:25.444 [info] [main] Validating found git in: "git"
+2025-03-10 19:27:25.444 [info] [main] Using git "2.47.2" from "git"
+2025-03-10 19:27:25.444 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-10 19:27:25.444 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-10 19:27:50.771 [info] [main] Log level: Info
+2025-03-10 19:27:50.771 [info] [main] Validating found git in: "git"
+2025-03-10 19:27:50.771 [info] [main] Using git "2.47.2" from "git"
+2025-03-10 19:27:50.771 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-10 19:27:50.771 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-10 19:27:50.776 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:27:50.780 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:27:50.783 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-03-10 19:28:00.208 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:28:03.496 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:28:05.634 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:28:08.170 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:28:12.277 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:28:13.851 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:28:21.067 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:32:43.115 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:32:53.432 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:32:59.230 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 19:33:25.694 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:33:35.964 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:33:54.401 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:33:59.313 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:34:21.852 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:34:33.170 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 19:34:34.207 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 19:34:38.488 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:39:50.341 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:41:30.541 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 19:47:16.426 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 19:47:17.377 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 21:25:14.985 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-10 21:28:53.393 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 21:41:56.287 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 21:41:59.424 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:00:35.717 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:07:19.576 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:07:55.245 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:08:27.178 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 22:08:32.643 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-10 22:09:18.371 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:09:26.767 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 22:11:02.321 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-10 22:11:23.084 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-10 22:12:11.683 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:12:28.911 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-10 22:13:21.420 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:13:35.015 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:15:48.372 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-10 22:16:04.188 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:16:06.946 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:16:24.606 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:16:28.404 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:16:47.876 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 22:19:39.889 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:19:41.097 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-10 22:19:46.322 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 22:19:49.108 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:20:12.691 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-10 22:20:13.657 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-10 22:34:21.787 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-10 23:16:43.294 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 23:16:44.915 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 23:16:47.395 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-10 23:16:56.071 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-11 00:22:17.582 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-11 00:22:17.591 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-03-11 00:22:17.611 [info] [Model][openRepository] Opened repository: /home/noroot/mypersonalwebsiteproject
+2025-03-11 00:22:17.622 [info] > git config --get commit.template [1ms]
+2025-03-11 00:22:17.631 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-11 00:22:17.639 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-03-11 00:22:17.639 [warning] [Git][getBranch] No such branch: master
+2025-03-11 00:22:17.660 [info] > git status -z -uall [12ms]
+2025-03-11 00:22:17.663 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-03-11 00:22:17.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2025-03-11 00:22:17.697 [warning] [Git][getBranch] No such branch: master
+2025-03-11 00:22:17.697 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-03-11 00:22:17.760 [info] > git config --get commit.template [64ms]
+2025-03-11 00:22:17.772 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-11 00:22:17.773 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-03-11 00:22:17.773 [warning] [Git][getBranch] No such branch: master
+2025-03-11 00:22:17.787 [info] > git status -z -uall [8ms]
+2025-03-11 00:22:17.789 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-11 00:22:18.170 [info] > git check-ignore -v -z --stdin [1ms]
